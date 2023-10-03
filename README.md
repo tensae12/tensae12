@@ -7,7 +7,6 @@ I'm a passionate software development engineer with a curiosity for all things t
 
 When I'm not in front of my computer, you can find me planning my next adventure, whether it's exploring vibrant cities or simply enjoying the serenity of nature.
 
-Get in touch whether you have an exciting opportunity for me or an opportunity to innovate together.I'd love to hear from you! let's connect and explore the possibilities 😊
 
 
 ## Education 📚
