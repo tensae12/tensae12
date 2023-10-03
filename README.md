@@ -1,7 +1,8 @@
 
 ### Hi there 👋
 
-I'm a Software & Hardware Engineer based in San Francisco Bay Area, 
+I'm a Software & Hardware Engineer based in San Francisco Bay Area, Currently working at Intel Corporation as a CPU Validation engineer.
+
 I'm a passionate software development engineer with a curiosity for all things tech. I'm passionate about solving complex tech puzzles and thrive in the ever-changing world of software development. When I'm not in front of my computer, you can find me planning my next adventure, whether it's exploring vibrant cities or simply enjoying the serenity of nature.
 Get in touch whether you have an exciting opportunity for me or an opportunity to innovate together, I'd love to hear from you! let's connect and explore the possibilities :)
 
